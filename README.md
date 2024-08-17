@@ -3,6 +3,7 @@
 ![Nyaa Logo](https://github.com/Anezium/NyaaScraperRD/blob/main/Nyaa-logo.png)
 
 Discord Bot to scrape and get download link from Nyaa with Real Debrid
+
 Based on [Nyaa-API](https://github.com/Vivek-Kolhe/Nyaa-API)
 
 ## Features
