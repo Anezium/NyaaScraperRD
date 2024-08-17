@@ -8,9 +8,9 @@ Based on [Nyaa-API](https://github.com/Vivek-Kolhe/Nyaa-API)
 
 ## Features
 
-Search directly from discord
+Search directly from Discord
 
-Add torrents automaticaly into your Real Debrid account
+Add torrents automatically into your Real Debrid account
 
 Get direct download links
 
